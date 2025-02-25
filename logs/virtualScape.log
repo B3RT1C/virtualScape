@@ -1,0 +1,3 @@
+2025-02-25 19:14:03 [main] INFO  es.gmm.psp.virtualScape.VirtualScapeApplication - Starting VirtualScapeApplication using Java 22.0.2 with PID 20552 (C:\Code\Codigo\IntelliJ_PSP\virtualScape\target\classes started by B3 in C:\Code\Codigo\IntelliJ_PSP\virtualScape)
+2025-02-25 19:14:03 [main] INFO  es.gmm.psp.virtualScape.VirtualScapeApplication - No active profile set, falling back to 1 default profile: "default"
+2025-02-25 19:14:05 [main] INFO  es.gmm.psp.virtualScape.VirtualScapeApplication - Started VirtualScapeApplication in 2.964 seconds (process running for 3.333)
